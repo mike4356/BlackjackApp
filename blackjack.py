@@ -122,7 +122,7 @@ def shuffle():
     random.shuffle(deck)
 
     def mike():
-        print("Mike says hello")
+        print("Mike says hello22")
 
 mainWindow = tkinter.Tk()
 
